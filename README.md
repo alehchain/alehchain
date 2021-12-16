@@ -1,6 +1,6 @@
 # Olá, eu sou o Chain 👋 <h1>
 
-## ♠♦♠♦ Seja muito bem vindo ao meu perfil ♠♦♠♦<h2>
+## ♠♠♠ Seja muito bem vindo ao meu perfil ♠♠♠<h2>
 
 📌 Information Systems - UFV 🎓 <br>
 📌 Atualmente trabalho com desenvolvimento de front-end; <br>

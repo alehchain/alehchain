@@ -3,8 +3,9 @@
 ## ♠♦♠♦ Seja muito bem vindo ao meu perfil ♠♦♠♦<h2>
 
 📌 Information Systems - UFV 🎓 <br>
-📌 Atualmente trabalho com desenvolvimento de front-end <br>
-📌 Em paralelo aprofundando o conhecimento em metodologias ágeis e testes de software.
+📌 Atualmente trabalho com desenvolvimento de front-end; <br>
+📌 Conhecimento em metodologias ágeis; <br> 
+📌 E em paralelo aprofundando o testes de software.
   
 <div align="center">
   <a href="https://github.com/alehchain">

@@ -5,7 +5,7 @@
 📌 Information Systems - UFV 🎓 <br>
 📌 Atualmente trabalho com desenvolvimento de front-end; <br>
 📌 Conhecimento em metodologias ágeis; <br> 
-📌 E em paralelo aprofundando o testes de software.
+📌 E em paralelo aprofundando o conhecimento em testes de software.
   
 <div align="center">
   <a href="https://github.com/alehchain">

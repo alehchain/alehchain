@@ -1,11 +1,11 @@
 # Olá, eu sou o Chain 👋 <h1>
 
-## Seja muito bem vindo ao meu perfil <h2>
+## Welcome to my profile <h2>
 
 📌 Information Systems - UFV 🎓 <br>
-📌 Atualmente trabalho com desenvolvimento de front-end; <br>
-📌 Conhecimento em metodologias ágeis; <br> 
-📌 E em paralelo aprofundando o conhecimento em testes de software.
+📌 I currently work with front-end development; <br>
+📌 Knowledge in agile methodologies; <br> 
+📌 And in parallel deepening knowledge in software testing.
   
 <div align="center">
   <a href="https://github.com/alehchain">

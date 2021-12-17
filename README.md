@@ -1,4 +1,4 @@
-# Hi I'm Alexandre Chain 👋 <h1>
+# Olá, eu sou o Chain 👋 <h1>
 
 ## Welcome to my profile <h2>
 

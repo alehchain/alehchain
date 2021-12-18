@@ -21,14 +21,17 @@
   <img align="center" alt="Aleh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>  
 
-##
+## Redes Sociais <h2>
+   
+<a href="https://twitter.com/alehchain"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Marko Denic Twitter profile" width="40"/></a>
+&ensp;
+<a href="https://www.linkedin.com/in/alexandrechain/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Marko Denic Linkedin account" width="30"/></a>
+&ensp;<a href="https://www.instagram.com/alexandrechain_"><img src="https://cdn.worldvectorlogo.com/logos/instagram-5.svg" title="Instagram" alt="Marko Denic Instagram profile" width="30"/></a>
+&ensp;<a href="https://github.com/alehchain"><img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" title="GitHub" alt="Marko Denic GitHub profile" width="30"/></a>
+<br>   
  
 <div> 
-  
-  <a href="https://instagram.com/alexandrechain_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:alexandrechaiin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alexandrechain" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+   
   ![Snake animation](https://github.com/alehchain/alehchain/blob/output/github-contribution-grid-snake.svg)
  
 </div>

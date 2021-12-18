@@ -2,7 +2,6 @@
 
 ## Welcome to my profile <h2>
 
-📌 Information Systems - UFV 🎓 <br>
 📌 I currently work with front-end development; <br>
 📌 Knowledge in agile methodologies; <br> 
 📌 And in parallel deepening knowledge in software testing.

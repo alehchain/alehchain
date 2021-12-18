@@ -24,7 +24,7 @@
  
 <div>
   
-## Redes Sociais <h2>
+# Redes Sociais <h1>
    
 <a href="https://twitter.com/alehchain"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Marko Denic Twitter profile" width="40"/></a>
 &ensp;

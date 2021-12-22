@@ -27,15 +27,15 @@
 ##  <h2>
   
 <p align="left">
-  <a href="https://www.instagram.com/iuricode/" alt="Instagram">
+  <a href="https://www.instagram.com/alexandrechain_/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/alexandrechain_"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/iuricode" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/alexandrechain" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/alexandrechain"/>
   </a>
   
-  <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
+  <a href="https://discord.gg/chaiN" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/chaiN"/>
   </a>
 </p>  

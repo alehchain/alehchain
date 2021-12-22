@@ -36,7 +36,7 @@
   </a>
   
   <a href="https://discord.gg/QevDJqCzaY" alt="Discord">
-    <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/chaiN#2950"/>
+    <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/chaiN"/>
   </a>
 </p>  
   

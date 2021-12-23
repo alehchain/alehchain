@@ -1,6 +1,6 @@
 # Olá, eu sou o Chain 👋 <h1>
-
-## Welcome to my profile <h2>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+MY+PROFILE.)](https://git.io/typing-svg)
 
 📌 I currently work with front-end development; <br>
 📌 Knowledge in agile methodologies; <br> 

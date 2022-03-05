@@ -4,12 +4,9 @@
 
 📌 Front-end developer 💻<br>
 
-▪️▪▪️▪️▪️▪️▪️▪️HOBBY▪️▪▪️▪️▪️▪️▪️▪️<br>
+▪️▪▪️▪️▪️▪️▪️▪️▪️HOBBY▪️▪▪️▪️▪️▪️▪️▪️▪️<br>
 
-📌 Runner 🏃‍♂️<br>
-📌 Swimmer 🏊‍♂️<br>
-📌 karatê 🥋<br>
-📌 Guitar player 🎸<br>
+📌 Runner 🏃‍♂️ Swimmer 🏊‍♂️ karatê 🥋 Guitar player 🎸<br>
     
 <div align="center">
   <a href="https://github.com/alehchain">

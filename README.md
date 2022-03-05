@@ -33,8 +33,7 @@
   <img align="center" alt="Aleh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Aleh-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Aleh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  </div> 
-    
+  </div>     
 <br>
   
   ![Snake animation](https://github.com/alehchain/alehchain/blob/output/github-contribution-grid-snake.svg) 

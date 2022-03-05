@@ -1,10 +1,14 @@
 # Olá, eu sou o Chain 👋 <h1>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+MY+PROFILE.)](https://git.io/typing-svg)
-📌 I currently work with front-end development; <br>
-📌 Knowledge in agile methodologies; <br> 
-📌 And in parallel deepening knowledge in software testing.  
-  
+
+📌 Front-end developer 💻<br>
+▪️▪️▪️▪️▪️▪▪️▪️▪️▪️▪️HOBBY▪️▪️▪️▪️▪️▪️▪▪️▪️▪️▪️
+📌 Runner 🏃‍♂️<br>
+📌 Swimmer 🏊‍♂️♂️<br>
+📌 karatê 🥋<br>
+📌 Guitar player 🎸<br>
+    
 <div align="center">
   <a href="https://github.com/alehchain">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alehchain&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

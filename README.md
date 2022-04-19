@@ -6,7 +6,7 @@
 
 ▪️▪▪️▪️▪️▪️▪️▪️ HOBBY ▪▪️▪️▪️▪️▪️▪️▪️<br>
 
-📌 Runner 🏃‍♂️ | Ride 🚴 |Swimmer 🏊‍♂️ | karatê 🥋 | Guitar player 🎸<br>
+📌 Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️ | karatê 🥋 | Guitar player 🎸<br>
     
 <div align="center">
   <a href="https://github.com/alehchain">

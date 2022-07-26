@@ -1,4 +1,4 @@
-# Olá, eu sou o Chain 👋 <h1>
+# Olá, eu sou o Chain 👋
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=WELCOME+TO+MY+PROFILE.)](https://git.io/typing-svg)
 

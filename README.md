@@ -7,8 +7,8 @@
 
 ▪️▪▪️▪️▪️▪️▪️▪️ HOBBY ▪▪️▪️▪️▪️▪️▪️▪️<br>
 
-📌 Triathlon : Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️ 
-    Guitar player 🎸<br>
+📌 Triathlon : Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️ <br>
+📌 Guitar player 🎸<br>
 
 <hr>
 <div align="center">

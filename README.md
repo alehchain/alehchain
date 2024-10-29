@@ -7,7 +7,7 @@
 
 ▪️▪▪️▪️▪️▪️▪️▪️ HOBBY ▪▪️▪️▪️▪️▪️▪️▪️<br>
 
-📌 Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️ | karatê 🥋 | Guitar player 🎸<br>
+📌 Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️ | Guitar player 🎸<br>
 
 <hr>
 <div align="center">

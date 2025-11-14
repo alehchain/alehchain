@@ -30,8 +30,7 @@
     <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/chaiN#2950"/>
   </a>  
 </p>
-<hr>
-    <div style="display: inline_block"><br> </div>     
+<hr>     
 <br>  
   
   ![Snake animation](https://github.com/alehchain/alehchain/blob/output/github-contribution-grid-snake.svg)  

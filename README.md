@@ -31,9 +31,6 @@
   </a>  
 </p>
 <hr>
-  <div style="display: inline_block"><br> </div>     
-<br>
-  
-  ![Snake animation](https://github.com/alehchain/alehchain/blob/output/github-contribution-grid-snake.svg) 
-  
+  <div style="display: inline_block">< </div>      
+  ![Snake animation](https://github.com/alehchain/alehchain/blob/output/github-contribution-grid-snake.svg)  
 </div>

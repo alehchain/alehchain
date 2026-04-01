@@ -4,11 +4,11 @@
 
 <hr>
 📌 Analista de Sistemas 💻<br><br>
+📌 Músico católico 🎸<br>
 
 ▪️▪▪️▪️▪️▪️▪️▪️ HOBBY ▪▪️▪️▪️▪️▪️▪️▪️<br>
 
 📌 Triathlon : Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️ <br>
-📌 Guitar player 🎸<br>
 
 <hr>
 <div align="center">

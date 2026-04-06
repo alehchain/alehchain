@@ -22,6 +22,15 @@ Triathlon: Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/alehchain?tab=repositories">
+    <img src="https://img.shields.io/badge/Meus%20Repositórios-GitHub-1C1C1C?style=for-the-badge&logo=github&logoColor=00FFFF" />
+  </a>
+  <a href="https://github.com/alehchain?tab=stars">
+    <img src="https://img.shields.io/badge/Projetos%20com%20Star-Ver%20mais-1C1C1C?style=for-the-badge&logo=github&logoColor=00FFFF" />
+  </a>
+</div>
+
 ---
 
 <p align="left">

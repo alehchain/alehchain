@@ -17,8 +17,8 @@ Triathlon: Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️
 
 <div align="center">
   <a href="https://github.com/alehchain">
-    <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alehchain&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alehchain&layout=compact&langs_count=7&theme=dark"/>
+    <img height="165em" src="https://github-readme-stats-ruby-five-37.vercel.app/api?username=alehchain&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats-ruby-five-37.vercel.app/api/top-langs/?username=alehchain&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
 

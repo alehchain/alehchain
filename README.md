@@ -11,7 +11,7 @@
 
 ## Hobby
 
-🏃‍♂️ Triathlon: Runner | 🚴 Ride | 🏊‍♂️ Swimmer
+Triathlon: Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️
 
 ---
 

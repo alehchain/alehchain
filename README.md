@@ -13,7 +13,6 @@
 Triathlon: Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️
 
 ---
-
 <div align="center">
   <a href="https://github.com/alehchain">
     <img height="165em" src="https://github-readme-stats-ruby-five-37.vercel.app/api?username=alehchain&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

@@ -26,6 +26,5 @@ Triathlon: Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️
     <img src="https://img.shields.io/badge/Projetos%20com%20Star-Ver%20mais-1C1C1C?style=for-the-badge&logo=github&logoColor=00FFFF" />
   </a>
 </div>
----
 
 ![Snake animation](https://github.com/alehchain/alehchain/blob/output/github-contribution-grid-snake.svg)

@@ -9,6 +9,7 @@
 📌 Músico católico 🎸  
 
 ## Hobby
+
 Triathlon: Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️
 ---
 <div align="center">

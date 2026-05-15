@@ -9,8 +9,8 @@
 📌 Músico católico 🎸  
 
 ## Hobby
-
 Triathlon: Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️
+
 ---
 <div align="center">
   <a href="https://github.com/alehchain">

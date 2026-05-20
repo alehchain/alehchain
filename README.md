@@ -6,8 +6,7 @@
 ## Sobre mim
 
 📌 Analista de Sistemas 💻  
-📌 Músico católico 🎸  
-
+  
 ## Hobby
 Triathlon: Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️
 

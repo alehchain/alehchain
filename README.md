@@ -8,7 +8,7 @@
 📌 Analista de Sistemas 💻  
   
 ## Hobby
-Triathlon: Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️
+📌 Triathlon: Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️
 
 ---
 <div align="center">

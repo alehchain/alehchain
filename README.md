@@ -4,7 +4,7 @@
 
 ---
 ## Sobre mim
-📌 Analista de Sistemas 💻  
+📌 Systems Analyst 💻  
   
 ## Hobby
 📌 Triathlon: Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️

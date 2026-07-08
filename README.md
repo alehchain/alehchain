@@ -12,10 +12,8 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/alehchain">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=alehchain&show_icons=true&theme=dark&include_all_commits=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehchain&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alehchain&theme=github_dark"/>
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alehchain&theme=github_dark"/>
 </div>
 
 ![Snake animation](https://github.com/alehchain/alehchain/blob/output/github-contribution-grid-snake.svg)

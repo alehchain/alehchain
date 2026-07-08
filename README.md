@@ -10,10 +10,19 @@
 📌 Triathlon: Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️
 
 ---
+<div align="center">
+
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alehchain&theme=tokyonight"/>
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alehchain&theme=tokyonight"/>
+
+</div>
+
+<br/>
 
 <div align="center">
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alehchain&theme=github_dark"/>
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alehchain&theme=github_dark"/>
+
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alehchain&theme=tokyonight"/>
+
 </div>
 
 ![Snake animation](https://github.com/alehchain/alehchain/blob/output/github-contribution-grid-snake.svg)

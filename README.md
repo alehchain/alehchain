@@ -4,10 +4,8 @@
 
 ---
 ## About Me
+
 📌 Systems Analyst | Software Developer 💻  
-  
-## Hobby
-📌 Triathlon: Runner 🏃‍♂️ | Ride 🚴 | Swimmer 🏊‍♂️
 
 ---
 <div align="center">

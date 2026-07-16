@@ -23,3 +23,4 @@
 ![Snake animation](https://github.com/alehchain/alehchain/blob/output/github-contribution-grid-snake.svg)
 
 ---
+

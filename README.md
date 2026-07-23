@@ -6,9 +6,17 @@
 
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1E90FF&height=180&section=header&text=Alexandre%20Chain&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Alexandre%20Chain&fontSize=40&color=0:1a1b27,100:6A5ACD&fontColor=ffffff"/>
+</p>
+
 <div align="center">
 
-<img src="https://media.giphy.com/media/..." width="500"/>
+<img width="600" src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif"/>
 
 </div>
 

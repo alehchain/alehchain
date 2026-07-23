@@ -43,12 +43,17 @@
 </div>
 
 ---
+
 ## ❤️ Support
 
-If you enjoyed my projects, you can help by:
+⭐ **Love my work?**
 
-⭐ Starring this repository
+- ⭐ Star this **Profile Repository** *(first pinned repository below 👇)*
+- 🚀 Explore my featured projects
+- 👤 Follow me for future updates
 
-⭐ Starring my other projects
+<h3 align="center">
+⬇️ Featured Repositories Below ⬇️
+</h3>
 
-👤 Following my GitHub profile
+---

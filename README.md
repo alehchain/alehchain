@@ -12,14 +12,12 @@
 
   ![](https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
   ![](https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-
+  ![](https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/3-stats.svg)
+  ![](https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
 
 <br/>
 
-<div align="center">
-  <img width="90%"
-       src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
-</div>
+![](https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
 <br/>
 

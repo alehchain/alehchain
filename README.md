@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=900&height=80&lines=WELCOME+TO+MY+PROFILE.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=WELCOME+TO+MY+PROFILE.)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,21 +24,13 @@
 <img width="47%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
 <img width="47%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <img width="95%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-<img width="95%" src="https://github.com/alehchain/alehchain/blob/output/github-contribution-grid-snake.svg"/>
+<img width="95%" src="https://raw.githubusercontent.com/alehchain/alehchain/output/github-contribution-grid-snake.svg"/>
 
 </div>
 

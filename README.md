@@ -8,6 +8,7 @@
 
 </div>
 
+---
 # Welcome to my coding journey 👋
 
 ---

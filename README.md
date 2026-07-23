@@ -10,14 +10,14 @@
 ---
 
 <div align="center">
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alehchain&theme=tokyonight"/>
-  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alehchain&theme=tokyonight"/>
+  <img height="165em" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
+  <img height="165em" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alehchain&theme=tokyonight"/>
+  <img width="90%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
 </div>
 
 ![Snake animation](https://github.com/alehchain/alehchain/blob/output/github-contribution-grid-snake.svg)

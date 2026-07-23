@@ -11,11 +11,8 @@
 ---
 
 <div align="center">
-  <img height="165em"
-       src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
-
-  <img height="165em"
-       src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
+  ![](https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
+  ![](https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
 </div>
 
 <br/>

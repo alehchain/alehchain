@@ -13,6 +13,15 @@
 📌 Systems Analyst | Software Developer 💻
 
 ---
+## Technologies
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure,git,github,js,jquery,html,css&perline=10)](https://skillicons.dev)
+
+</div>
+
+---
 
 <div align="center">
 

@@ -6,19 +6,16 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/..." width="500"/>
+
+</div>
+
 ---
 ## About Me
 
 📌 Systems Analyst | Software Developer 💻
-
-<div align="center">
-
-![](https://img.shields.io/badge/C%23-.NET%208-512BD4?style=for-the-badge&logo=dotnet)
-![](https://img.shields.io/badge/Oracle-Database-F80000?style=for-the-badge&logo=oracle)
-![](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure)
-
-</div>
 
 ---
 ## Technologies

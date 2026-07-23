@@ -10,10 +10,9 @@
 
 ---
 
-<div align="center">
   ![](https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
   ![](https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
-</div>
+
 
 <br/>
 

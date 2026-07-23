@@ -1,18 +1,13 @@
-# Hello, I am Alexandre Chain 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1E90FF&height=180&section=header&text=Alexandre%20Chain&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
 
+# Hello 👋
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=WELCOME+TO+MY+PROFILE.)](https://git.io/typing-svg)
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:1E90FF&height=180&section=header&text=Alexandre%20Chain&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Alexandre%20Chain&fontSize=40&color=0:1a1b27,100:6A5ACD&fontColor=ffffff"/>
-</p>
 
 ---
 ## About Me

@@ -19,8 +19,6 @@
 
 ![](https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
-<br/>
-
 <div align="center">
 
 ![Snake animation](https://github.com/alehchain/alehchain/blob/output/github-contribution-grid-snake.svg)

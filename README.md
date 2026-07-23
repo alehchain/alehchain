@@ -43,3 +43,12 @@
 </div>
 
 ---
+## ❤️ Support
+
+If you enjoyed my projects, you can help by:
+
+⭐ Starring this repository
+
+⭐ Starring my other projects
+
+👤 Following my GitHub profile

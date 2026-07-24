@@ -36,7 +36,7 @@
 
 <img width="90%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
 
-<br/><br/>
+<br/>
 
 <img width="100%" src="https://raw.githubusercontent.com/alehchain/alehchain/output/github-contribution-grid-snake.svg"/>
 
@@ -44,9 +44,7 @@
 
 ---
 
-## ❤️ Support
-
-⭐ **Love my work?**
+## Support
 
 - ⭐ Star this **Profile Repository** *(first pinned repository below 👇)*
 - 🚀 Explore my featured projects

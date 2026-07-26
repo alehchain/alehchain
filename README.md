@@ -46,10 +46,6 @@
 
 ## Support
 
-- ⭐ Star this **Profile Repository** *(first pinned repository below 👇)*
-- 🚀 Explore my featured projects
-- 👤 Follow me for future updates
-
 <h3 align="center">
 ⬇️ Featured Repositories Below ⬇️
 </h3>

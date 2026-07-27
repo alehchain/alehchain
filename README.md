@@ -47,7 +47,7 @@
 ## Support
 
 <h3 align="center">
-⬇️ Featured Repositories Below ⬇️
+⬇️ Featured Repositories ⬇️
 </h3>
 
 ---

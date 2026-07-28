@@ -49,5 +49,3 @@
 <h3 align="center">
 ⬇️ Featured Repositories ⬇️
 </h3>
-
----

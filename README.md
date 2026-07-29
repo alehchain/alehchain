@@ -22,8 +22,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 <img width="35%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>

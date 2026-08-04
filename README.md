@@ -38,7 +38,6 @@
 </div>
 
 ---
-
 ## Support
 
 <h3 align="center">

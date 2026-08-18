@@ -16,23 +16,17 @@
 ---
 ## Technologies
 
-<div align="center">
-  
+<div align="center">  
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure,git,github,js,jquery,html,css&perline=10)](https://skillicons.dev)
-
 </div>
 
 <div align="center">
-
 <img width="35%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
 <img width="35%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
-
 <br/>
-
 <img width="35%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
 <img width="35%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
 <img width="90%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
-
 <br/>
 <img width="100%" src="https://raw.githubusercontent.com/alehchain/alehchain/output/github-contribution-grid-snake.svg"/>
 </div>

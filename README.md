@@ -33,7 +33,6 @@
 <img width="100%" src="https://raw.githubusercontent.com/alehchain/alehchain/output/github-contribution-grid-snake.svg"/>
 </div>
 
-
 ---
 
 <h3 align="center">

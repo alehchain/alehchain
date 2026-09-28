@@ -9,7 +9,6 @@
 </div>
 
 ---
-
 ## About Me
 
 📌 Systems Analyst | Software Developer 💻
@@ -25,7 +24,7 @@
 
 <div align="center">
 <img width="35%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
-<img width="35%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
+<img width="35%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>  
 <br/>
 <img width="35%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/3-stats.svg"/>
 <img width="35%" src="https://raw.githubusercontent.com/alehchain/alehchain/main/profile-summary-card-output/tokyonight/4-productive-time.svg"/>

@@ -36,5 +36,5 @@
 ---
 
 <h3 align="center">
-⬇️ Featured Repositories ⬇️
+⬇️ Repositories ⬇️
 </h3>
